@@ -32,7 +32,7 @@ PCB layout
 Trace routing
 Design Rule Check (DRC)
 
-The 
+
 </div>
 Safety
 
