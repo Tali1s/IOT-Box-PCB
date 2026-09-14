@@ -26,11 +26,11 @@ The board provides multiple hardware interfaces while keeping the design compact
 
 The PCB was designed using EasyEDA, covering the complete basic PCB design workflow:
 
-Schematic design
-Component selection and placement
-PCB layout
-Trace routing
-Design Rule Check (DRC)
+Schematic design,
+Component selection and placement,
+PCB layout,
+Trace routing,
+Design Rule Check (DRC).
 
 
 </div>
