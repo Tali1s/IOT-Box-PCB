@@ -2,7 +2,7 @@
 <h1>IoT Box PCB</h1>
 
 <h3> An IOT hardware platform based on ESP-32 microcontroller and designed for high-voltage device control</h3>
-<img src="images/pcb-front.png" width="700"> 
+<img src="images/front-pcb.png" width="700"> 
 
 </div>
 
